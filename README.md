@@ -1,0 +1,2 @@
+# bomberman_indicator_tradingbot
+bomberman_indicator_tradingbot
